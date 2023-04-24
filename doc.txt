@@ -1,0 +1,6 @@
+Topic : How To Make Netflix Website Clone Using HTML And CSS
+
+1) Header Section: Logo | Welcome Text | Email Subscription form (00:00 to 17:07)
+2) Features : text | images
+3)FAQ Section : click on question display the details and click again to hide the details
+4) Footer : Use full info | Social media
